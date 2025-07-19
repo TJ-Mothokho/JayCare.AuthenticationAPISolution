@@ -1,9 +1,5 @@
 ﻿using AuthenticationAPI.Domain.Common;
-using AuthenticationAPI.Domain.Enums;
-using System;
-using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
 
 namespace AuthenticationAPI.Domain.Entities
 {
